@@ -2,6 +2,8 @@
   
 # Hello World! I'm Marshal 👨‍💻
 
+<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" />
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=3B88C3&center=true&vCenter=true&random=false&width=435&lines=Backend+Developer;Computer+Science+Student;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 </div>
@@ -35,17 +37,18 @@
 
 </details>
 
-## Tech Stack 💻
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
+  <h3>🌐 Frontend Skills</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark&perline=4" />
 
-`Frontend` | `Backend` | `Tools`
----|---|---
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
+  <h3>💻 Backend Development</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,nodejs,mysql,firebase&theme=dark&perline=5" />
+  
+  
+  <h3>⚡ Development Tools</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify&theme=dark&perline=4" />
 </div>
 
 ## GitHub Stats 📊

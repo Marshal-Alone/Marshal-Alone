@@ -19,19 +19,19 @@
 🎮 Games & Interactive
 
 * [**Space Adventurer**](https://marshal-alone.github.io/Small-Projects/Small%20Projects/0006%20Move%20Character/index.html) - Interactive character control with smooth animations
-* [**Simon Says Game**](Small%20Projects/008%20Simon%20Says%20Game/index.html) - Test your memory with color sequences
-* [**Tic Tac Toe**](Small%20Projects/0001%20Tic-Tac-Toe/index.html) - Classic two-player strategy game
-* [**Stone Paper Scissors**](Small%20Projects/0002%20Stone-Paper-Scissor/index.html) - Play against AI with animated results
+* [**Simon Says Game**](https://marshal-alone.github.io/Small-Projects/Small%20Projects/008%20Simon%20Says%20Game/index.html) - Test your memory with color sequences
+* [**Tic Tac Toe**](https://marshal-alone.github.io/Small-Projects/Small%20Projects/0001%20Tic-Tac-Toe/index.html) - Classic two-player strategy game
+* [**Stone Paper Scissors**](https://marshal-alone.github.io/Small-Projects/Small%20Projects/0002%20Stone-Paper-Scissor/index.html) - Play against AI with animated results
 
 
 
 
 <summary>🛠️ Utility Apps</summary>
 
-* [**Currency Converter**](Small%20Projects/0005%20Currency-Convertor-API/index.html) - Real-time currency conversion
-* [**Weather App**](Small%20Projects/0004%20Weather-API/index.html) - Check weather conditions worldwide
-* [**Simple Todo**](Small%20Projects/007%20Simple%20To-Do/index.html) - Clean and efficient task manager
-* [**Random Jokes**](Small%20Projects/0003%20Random-rokes-API/index.html) - API-powered joke generator
+* [**Currency Converter**](https://marshal-alone.github.io/Small-Projects/Small%20Projects/0005%20Currency-Convertor-API/index.html) - Real-time currency conversion
+* [**Weather App**](https://marshal-alone.github.io/Small-Projects/Small%20Projects/0004%20Weather-API/index.html) - Check weather conditions worldwide
+* [**Simple Todo**](https://marshal-alone.github.io/Small-Projects/Small%20Projects/007%20Simple%20To-Do/index.html) - Clean and efficient task manager
+* [**Random Jokes**](https://marshal-alone.github.io/Small-Projects/Small%20Projects/0003%20Random-rokes-API/index.html) - API-powered joke generator
 
 </details>
 

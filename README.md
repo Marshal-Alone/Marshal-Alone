@@ -32,10 +32,7 @@
 <p>An email-focused application built with JavaScript!</p>
 </div>
 </td>
-</tr>
-
-<tr>
-<td width="50%">
+  <td width="50%">
 <h3 align="center">ApplicationTracker 📋</h3>
 <div align="center">
 <a href="https://github.com/Marshal-Alone/ApplicationTracker" target="_blank">
@@ -44,6 +41,9 @@
 <p>Track and manage job applications efficiently!</p>
 </div>
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 <h3 align="center">FarmRent 🌾</h3>
 <div align="center">

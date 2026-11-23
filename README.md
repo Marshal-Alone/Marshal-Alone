@@ -2,8 +2,6 @@
 
 ### A learner
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Marshal-Alone" alt="Marshal-Alone" /></a> </p>
-
 - 🌱 I'm currently learning **J2EE**
 
 - 📫 How to reach me **marshal3869@gmail.com**

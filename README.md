@@ -10,7 +10,7 @@
 
 ## About Me 🎯
 
-- 🔭 Currently pursuing B.Tech in Computer Science & Engineering
+- 🔭 Graduate - B.Tech in Computer Science & Engineering
 - 🌱 Focusing on Backend Development and System Architecture
 - 💡 Always eager to learn and explore new technologies
 - 🚀 Passionate about building scalable applications
